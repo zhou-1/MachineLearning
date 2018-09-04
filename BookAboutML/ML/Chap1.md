@@ -1,5 +1,5 @@
 # Chapter 1    
-从数据中产生model 的算法。   
+从数据中产生model 的算法。 
 <br> 基本术语 </br>
 离散值，classification; 连续值，regression.    
 Clustering 聚类，将训练集中的目标分为若干组，每一组称为cluster.    
