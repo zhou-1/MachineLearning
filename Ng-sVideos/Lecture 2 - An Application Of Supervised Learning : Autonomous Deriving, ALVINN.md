@@ -31,6 +31,27 @@ Keeping changing θ0 and θ1 a little bit to try and reduce J(θ0,θ1)
 Each time you change the parameters, you select the gradient which reduces J(θ0,θ1) the most possible     
 Repeat    
 Do so until you converge to a local minimum    
-Has an interesting property     
+Has an interesting property      
+<b> Two key terms in the algorithm </b>     
+Alpha   
+Derivative term    
+<b> When you get to a local minimum </b>    
+Gradient of tangent/derivative is 0    
+So derivative term = 0    
+alpha * 0 = 0    
+So θ1 = θ1- 0    
+So θ1 remains the same    
+
+
+<b> Linear regression with gradient descent </b>   
+
+
+
+
+
+
+
+
+
 
 
