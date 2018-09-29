@@ -44,7 +44,18 @@ So θ1 remains the same
 
 
 <b> Linear regression with gradient descent </b>   
+Apply gradient descent to minimize the squared error cost function J(θ0, θ1)     
+The linear regression cost function is always a convex function - always has a single minimum     
+Bowl shaped, One global optima, So gradient descent will always converge to global optima    
+End up at a global minimum, this is actually Batch Gradient Descent      
 
+<b> Normal equation for numeric solution </b>   
+To solve the minimization problem we can solve it [ min J(θ0, θ1) ] exactly using a numeric method which avoids the iterative approach used by gradient descent     
+Advantage: No longer an alpha term, Can be much faster for some problems     
+Disadvantage: Much more complicated     
+
+<b> We can learn with a larger number of features </b>     
+So may have other parameters which contribute towards a prize
 
 
 
