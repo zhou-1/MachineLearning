@@ -1,4 +1,4 @@
-# Resource: https://gist.github.com/tristanwietsma/5486024
+# Resource: https://github.com/jaimeps/adaboost-implementation/blob/master/adaboost.py
 
 import pandas as pd
 import numpy as np
